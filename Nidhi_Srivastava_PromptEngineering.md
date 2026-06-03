@@ -444,6 +444,7 @@ COMPARISON TABLE
 | 5 | Negative | Negative | Negative | No |
 
 •	Write 2-3 sentences explaining when few-shot prompting is most useful
+
 Few-shot prompting is most useful when the task requires a specific format or classification style. By providing examples, the model can better understand the expected pattern and produce more consistent results. In this experiment, both zero-shot and few-shot prompting produced similar classifications because the reviews were relatively straightforward. However, few-shot prompting provides greater reliability when dealing with more complex or ambiguous inputs. 
 Few-shot prompting is most useful when a task requires a specific format, style, or classification method. By providing examples, the LLM can better understand the expected pattern and generate more consistent and accurate outputs. It is especially helpful for tasks such as sentiment analysis, content categorization, data extraction, and structured response generation.
 
