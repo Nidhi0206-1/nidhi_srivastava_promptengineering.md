@@ -311,6 +311,7 @@ Prompt
 Explain what photosynthesis is.
 Be precise, factual, and consistent.
 Keep the explanation between 80 and 120 words.
+
 Output
 [Photosynthesis is the biological process by which plants, algae, and certain bacteria convert light energy into chemical energy stored as glucose. It occurs primarily in chloroplasts, using the green pigment chlorophyll to absorb sunlight. The process takes in carbon dioxide from the air and water from the soil, producing glucose and oxygen as a byproduct.
 The overall reaction can be summarized as: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂
@@ -320,6 +321,7 @@ Medium Temperature (0.7)
 Prompt
 Explain what photosynthesis is.
 Keep the explanation between 80 and 120 words.
+
 Output
 [Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored as glucose. Taking place mainly in chloroplasts, it relies on chlorophyll to absorb sunlight. The plant draws in carbon dioxide through tiny pores called stomata and absorbs water through its roots. These ingredients, powered by light, are transformed into glucose and oxygen — the oxygen being released into the atmosphere.
 The process has two main stages: the light-dependent reactions, which capture solar energy, and the Calvin cycle, which uses that energy to build sugar molecules. Photosynthesis underpins virtually all life on Earth by forming the base of the food chain.]
@@ -329,6 +331,7 @@ Prompt
 Explain what photosynthesis is.
 Be creative and explore diverse ideas while remaining accurate.
 Keep the explanation between 80 and 120 words.
+
 Output
 [Think of a plant as a solar-powered sugar factory. Leaves are the panels, chlorophyll the circuitry, and sunlight the fuel. Every moment in daylight, plants are pulling carbon dioxide from the air and water from the soil, feeding them into an elegant molecular assembly line housed inside chloroplasts.
 The result? Glucose — a rich energy currency that powers the plant's growth — and oxygen, exhaled as a kind of byproduct. This happens in two choreographed stages: capturing light energy, then using it to stitch carbon atoms into sugar.
