@@ -14,7 +14,7 @@ Prompt V1
 [Explain blockchain.]
 
 Output V1
-[ClaBlockchain is essentially a shared, tamper-resistant database maintained by a network of computers rather than any single authority. Here's how it works:
+[Blockchain is essentially a shared, tamper-resistant database maintained by a network of computers rather than any single authority. Here's how it works:
 The core idea
 Data is grouped into "blocks," each containing a batch of records (like transactions). Every block is cryptographically linked to the one before it, forming a chain. Altering any block would break that link — and all subsequent ones — making tampering obvious.
 Key properties
